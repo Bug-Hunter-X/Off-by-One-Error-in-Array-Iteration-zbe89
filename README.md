@@ -1,0 +1,1 @@
+This repository demonstrates a common off-by-one error in Java when iterating over arrays. The `Bug.java` file contains the erroneous code, while `BugSolution.java` provides the corrected version.
